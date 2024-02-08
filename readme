@@ -46,7 +46,3 @@ python train_model.py --data_path /path/to/labeled_data.tsv
 
 python predict_dark_patterns.py --data_path /path/to/new_data.tsv
 
-
-
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
